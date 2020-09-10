@@ -17,7 +17,11 @@
 		<align="center">Tinha uma pedra<br/>
 		<align="center"> No meio do caminho tinha uma pedra </p>		
 		
-		<p align="center"><code> Hello World! </code> </p> 
+		<p align="center"><code> Hello World! </code> </p>
+		
+		<p id="italicparagraph">Parágrafo tipo 1, italico </p>
+		<p id="boldparagraph">Parágrafo tipo 2, negrito</p>
+		<input type="text" name="TextField" />
 		
 	</body>
 
