@@ -1,0 +1,24 @@
+<html>
+
+	<head>
+	
+		<title>Minha primeira página na web!</title>
+
+	</head>
+
+	<body>
+
+		<i><h1  align="center" size = "20">No meio do caminho</h1></i>
+		<i><h2  align="center">By: Carlos Drummond de Andrade</h2></i>
+		<hr/>
+		
+		<p  align="center">No meio do caminho tinha uma pedra <br/>
+		<align="center">Tinha uma pedra no meio do caminho <br/>
+		<align="center">Tinha uma pedra<br/>
+		<align="center"> No meio do caminho tinha uma pedra </p>		
+		
+		<p align="center"><code> Hello World! </code> </p> 
+		
+	</body>
+
+</html>
