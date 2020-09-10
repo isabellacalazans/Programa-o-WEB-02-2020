@@ -1,0 +1,26 @@
+<html>
+
+	<head>
+  
+		<title> Segunda página WEB! </title>
+    
+	</head>
+  
+	<body>
+		
+		<code  align="center"> Hello World!</code>
+		<p><font size = "5">Tem uma fonte tamanho 5 aqui.</font></p>
+		<p>
+		<font color="#990000">Esse texto está na cor hexodecimal #990000</font><br />
+		<font color="red">Esse texto é vermelho</font>
+		</p>
+		<p><font face="Bookman Old Style, Book Antiqua, Garamond">Parágrafo com fonte formatada com atributos de face fonte</font><p>
+		<p><font size="6" face="Georgia, Arial" color="maroon">C</font>Customizado</p>
+
+		<a href="http://www.educatux.com.br" target="_blank" title="EducatuX">EducatuX</a>
+		<a href="#top">Ir para cima</a>	
+		<p>Nesta frase foi introduzido &nbsp;&nbsp;&nbsp;&nbsp; mais espaços.<p>
+
+	</body>
+
+</html>
